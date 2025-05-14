@@ -1,5 +1,5 @@
 # Prueba Dirección Educación Pública
-Consta de 30 minutos para resolver este desafio.\
+Cuenta con 30 minutos para resolver este desafio.\
 Debes realizar un fork a este repositorio y subir sus respuestas en el fork\
 No dude en realizar consultas
 ## Instrucciones desafio
