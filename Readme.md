@@ -5,7 +5,7 @@ No dude en realizar consultas
 ## Instrucciones desafio
 Utilizar el archivo main.html para realizar la prueba  
 Utilizar google las veces que estimes conveniente (no resta puntos)  
-__No permitir que una Inteligencia Artificial responda el desafio en su lugar__  
+<mark>__No__ permitir que una Inteligencia Artificial responda el desafio en su lugar</mark>  
 Se debe crear una aplicación que cree el conjunto de un input de texto y un botón desde JavaScript.  
 Contener el input de texto y botón dentro del div input-y-boton  
 El botón debe tener el texto "Crear elemento"  
