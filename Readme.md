@@ -1,4 +1,30 @@
-# Rubrica
+# Prueba Dirección Educación Pública
+Consta de 30 minutos para resolver este desafio.  
+Debe subir su respuesta al repositorio que se le ha entregado al comienzo de la entrevista  
+No dude en realizar consultas  
+## Instrucciones desafio
+Utilizar el archivo main.html para realizar la prueba  
+Utilizar google las veces que estimes conveniente (no resta puntos)  
+__No permitir que una Inteligencia Artificial responda el desafio en su lugar__  
+Se debe crear una aplicación que cree el conjunto de un input de texto y un botón desde JavaScript.  
+Contener el input de texto y botón dentro del div input-y-boton  
+El botón debe tener el texto "Crear elemento"  
+Los input aceptables son input, anchor, button, paragraph  
+Cualquier otro input sobre la casilla de texto inicial, debe ser tratado como un paragraph  
+Al pulsar el botón, dentro del __div container-elementos__ se debe crear uno de los siguientes elementos:
+
+- __Input__ de texto con placeholder "Creado en código"
+- __Anchor__ que abra una página de google en una nueva pestaña y tenga el texto "Un enlace"
+- __Button__ que al presionarlo escriba "hola, mundo!" en el div output. Debe tener el texto de "Escribir"
+- __Paragraph__ con el texto "Texto creado en código"
+
+El div container-elementos debe mostrar su contenido en 2 columnas en todos los tamaños de dispositivo
+
+Los divs input-y-boton, container-elementos y output no deben ser modificados
+
+El CSS y JavaScript deben estar en archivos separados
+
+## Rubrica
 |Criterio | descripción | Puntos |
 |-|-|-|
 |conjunto input y botón| Crear dinamicamente el conjunto input y botón que crean los elementos especificados | 1 Punto|
@@ -12,4 +38,3 @@
 |Archivos separados| El archivo de CSS se encuentra en su propio documento y correctamente enlazado en main.html| 1 Punto|
 |Textos|Se respetaron los textos indicados en las instrucciones para cada elemento| 1 Punto| 
 ||Total|10 Puntos|
-
