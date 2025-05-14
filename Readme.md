@@ -1,7 +1,7 @@
 # Prueba Dirección Educación Pública
 Consta de 30 minutos para resolver este desafio.\
 Debe subir su respuesta al repositorio que se le ha entregado al comienzo de la entrevista\
-No dude en realizar consultas\
+No dude en realizar consultas
 ## Instrucciones desafio
 
 Utilizar el archivo main.html para realizar la prueba\
