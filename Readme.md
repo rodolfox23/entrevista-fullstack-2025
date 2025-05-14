@@ -1,16 +1,20 @@
 # Prueba Dirección Educación Pública
-Consta de 30 minutos para resolver este desafio.  
-Debe subir su respuesta al repositorio que se le ha entregado al comienzo de la entrevista  
-No dude en realizar consultas  
+Consta de 30 minutos para resolver este desafio.\
+Debe subir su respuesta al repositorio que se le ha entregado al comienzo de la entrevista\
+No dude en realizar consultas\
 ## Instrucciones desafio
-Utilizar el archivo main.html para realizar la prueba  
-Utilizar google las veces que estimes conveniente (no resta puntos)  
-<mark>__No__ permitir que una Inteligencia Artificial responda el desafio en su lugar</mark>  
-Se debe crear una aplicación que cree el conjunto de un input de texto y un botón desde JavaScript.  
-Contener el input de texto y botón dentro del div input-y-boton  
-El botón debe tener el texto "Crear elemento"  
-Los input aceptables son input, anchor, button, paragraph  
-Cualquier otro input sobre la casilla de texto inicial, debe ser tratado como un paragraph  
+
+Utilizar el archivo main.html para realizar la prueba\
+Utilizar google las veces que estimes conveniente (no resta puntos)\
+<mark>__No__ permitir que una Inteligencia Artificial responda el desafio en su lugar</mark>
+
+---
+
+Se debe crear una aplicación que cree el conjunto de un input de texto y un botón desde JavaScript.\
+Contener el input de texto y botón dentro del div input-y-boton\
+El botón debe tener el texto "Crear elemento"\
+Los input aceptables son input, anchor, button, paragraph\
+Cualquier otro input sobre la casilla de texto inicial, debe ser tratado como un paragraph\
 Al pulsar el botón, dentro del __div container-elementos__ se debe crear uno de los siguientes elementos:
 
 - __Input__ de texto con placeholder "Creado en código"
@@ -29,7 +33,7 @@ El CSS y JavaScript deben estar en archivos separados
 |-|-|-|
 |conjunto input y botón| Crear dinamicamente el conjunto input y botón que crean los elementos especificados | 1 Punto|
 |Input|Tras ingresar el texto "input" en el conjunto "input y botón" se crea un input con placeholder al presionar el botón| 1 Punto |
-|Anchor|Tras ingresar el texto "anchor" en el conjunto "input y botón" se crea un anchor que enlaza a google en una nueva pestaña  al presionar el botón| 1 Punto|
+|Anchor|Tras ingresar el texto "anchor" en el conjunto "input y botón" se crea un anchor que enlaza a google en una nueva pestaña al presionar el botón| 1 Punto|
 |Botón con evento|Tras ingresar el texto "button" en el conjunto "input y botón" se crea un botón que cumple con el comportamiento de escribir "hola, mundo!" en el div output al presionar el botón| 1 Punto|
 |Parrafo|Tras ingresar el texto "paragraph" en el conjunto "input y botón" se crea un parrafo al presionar el botón| 1 Punto|
 |Input no especificado|Tras ingresar un texto que no sea ni input, paragraph, anchor o button en el conjunto "input y botón" se crea un parrafo al presionar el botón| 1 Punto |
