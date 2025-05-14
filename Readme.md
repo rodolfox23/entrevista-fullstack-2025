@@ -1,3 +1,4 @@
+# Rubrica
 |Criterio | descripción | Puntos |
 |-|-|-|
 |conjunto input y botón| Crear dinamicamente el conjunto input y botón que crean los elementos especificados | 1 Punto|
