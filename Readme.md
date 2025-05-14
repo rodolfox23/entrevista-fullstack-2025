@@ -1,6 +1,6 @@
 # Prueba Dirección Educación Pública
 Consta de 30 minutos para resolver este desafio.\
-Debe subir su respuesta al repositorio que se le ha entregado al comienzo de la entrevista\
+Debes realizar un fork a este repositorio y subir sus respuestas en el fork\
 No dude en realizar consultas
 ## Instrucciones desafio
 
@@ -28,10 +28,10 @@ Los divs input-y-boton, container-elementos y output no deben ser modificados
 
 El CSS y JavaScript deben estar en archivos separados
 
-## Rubrica
+## Rúbrica
 |Criterio | descripción | Puntos |
 |-|-|-|
-|conjunto input y botón| Crear dinamicamente el conjunto input y botón que crean los elementos especificados | 1 Punto|
+|conjunto input y botón| Crear dinámicamente el conjunto input y botón que crean los elementos especificados | 1 Punto|
 |Input|Tras ingresar el texto "input" en el conjunto "input y botón" se crea un input con placeholder al presionar el botón| 1 Punto |
 |Anchor|Tras ingresar el texto "anchor" en el conjunto "input y botón" se crea un anchor que enlaza a google en una nueva pestaña al presionar el botón| 1 Punto|
 |Botón con evento|Tras ingresar el texto "button" en el conjunto "input y botón" se crea un botón que cumple con el comportamiento de escribir "hola, mundo!" en el div output al presionar el botón| 1 Punto|
