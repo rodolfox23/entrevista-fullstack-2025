@@ -1,6 +1,6 @@
 # Prueba Dirección Educación Pública
-Cuenta con 30 minutos para resolver este desafio.\
-Debes realizar un fork a este repositorio y subir sus respuestas en el fork\
+Debe realizar un fork a este repositorio y subir sus respuestas en el fork\
+Debe hacer commit a su fork hasta las 2025/05/16 10:45 hora Santiago\
 No dude en realizar consultas
 ## Instrucciones desafio
 
