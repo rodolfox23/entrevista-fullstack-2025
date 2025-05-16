@@ -31,14 +31,14 @@ El CSS y JavaScript deben estar en archivos separados
 ## Rúbrica
 |Criterio | descripción | Puntos |
 |-|-|-|
-|conjunto input y botón| Crear dinámicamente el conjunto input y botón que crean los elementos especificados | 1 Punto|
-|Input|Tras ingresar el texto "input" en el conjunto "input y botón" se crea un input con placeholder al presionar el botón en el div container-elementos| 1 Punto |
-|Anchor|Tras ingresar el texto "anchor" en el conjunto "input y botón" se crea un anchor que enlaza a Google en una nueva pestaña al presionar el botón en el div container-elementos| 1 Punto|
-|Botón con evento|Tras ingresar el texto "button" en el conjunto "input y botón" se crea un botón en el div container-elementos tras presionar el bóton. Este nuevo bóton debe cumplir con el comportamiento de escribir "hola, mundo!" en el div output al ser presionado| 1 Punto|
-|Párrafo|Tras ingresar el texto "paragraph" en el conjunto "input y botón" se crea un párrafo al presionar el botón en el div container-elementos| 1 Punto|
-|Input no especificado|Tras ingresar un texto que no sea ni input, paragraph, anchor o button en el conjunto "input y botón" se crea un párrafo al presionar el botón en el div container-elementos| 1 Punto |
+|conjunto input y botón| Crear dinámicamente el conjunto input y botón dentro del div input-y-boton. Al presionar el bóton, se crean los inputs especificados según el valor del input| 1 Punto|
+|Input|Tras ingresar el texto "input" en el conjunto "input y botón" se crea un input con placeholder dentro del div container-elementos al presionar el botón| 1 Punto |
+|Anchor|Tras ingresar el texto "anchor" en el conjunto "input y botón" se crea un anchor dentro del div container-elementos que enlaza a Google en una nueva pestaña al presionar el botón| 1 Punto|
+|Botón con evento|Tras ingresar el texto "button" en el conjunto "input y botón" se crea un botón dentro del div container-elementos tras presionar el bóton. Este nuevo bóton debe cumplir con el comportamiento de escribir "hola, mundo!" en el div output al ser presionado| 1 Punto|
+|Párrafo|Tras ingresar el texto "paragraph" en el conjunto "input y botón" se crea un párrafo dentro del div container-elementos al presionar el botón| 1 Punto|
+|Input no especificado|Tras ingresar un texto que no sea ni input, paragraph, anchor o button en el conjunto "input y botón" se crea un párrafo dentro del div container-elementos al presionar el botón | 1 Punto |
 |CSS|El div container-elementos muestra su contenido en 2 columnas| 1 Punto |
-|Archivos separados| El archivo de JavaScript se encuentra en su propios documento y correctamente enlazado en main.html| 1 Punto|
+|Archivos separados| El archivo de JavaScript se encuentra en su propio documento y correctamente enlazado en main.html| 1 Punto|
 |Archivos separados| El archivo de CSS se encuentra en su propio documento y correctamente enlazado en main.html| 1 Punto|
 |Textos|Se respetaron los textos indicados en las instrucciones para cada elemento| 1 Punto| 
 ||Total|10 Puntos|
