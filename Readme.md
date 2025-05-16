@@ -13,7 +13,7 @@ Utilizar google las veces que estimes conveniente (no resta puntos)\
 Se debe crear una aplicación que cree el conjunto de un input de texto y un botón desde JavaScript.\
 Contener el input de texto y botón dentro del div input-y-boton\
 El botón debe tener el texto "Crear elemento"\
-Los input aceptables son input, anchor, button, paragraph\
+Los input aceptables son: input, anchor, button, paragraph\
 Cualquier otro input sobre la casilla de texto inicial, debe ser tratado como un paragraph\
 Al pulsar el botón, dentro del __div container-elementos__ se debe crear uno de los siguientes elementos:
 
